@@ -1,0 +1,3 @@
+En este directorio van los isos que desee colocar.
+
+Por el momento solo contiene archivos vacíos para probar el software, simplemente borrelos y sustituyalos por los que usted posea. 
