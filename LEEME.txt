@@ -1,8 +1,8 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Progrma Simple Para Colocar En Un Equipo De Servicio De Quemado #
-# Autor: José David Calderón Serrano                              #
-#        jose.david@calderonbonilla.org                           #
-#                                                                 # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Programa Simple Para Colocar En Un Equipo De Servicio De Quemado De CD  #
+# Autor: José David Calderón Serrano                                      #
+#        jose.david@calderonbonilla.org                                   #
+#                                                                         # #
 # Este programa es software libre: usted puede redistribuirlo y / o         #
 # modificarlo bajo los términos de la GNU General Public License publicada  #
 # por la Free Software Foundation, bien de la versión 3 de la Licencia, o   #
